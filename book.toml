@@ -1,0 +1,6 @@
+[book]
+authors = ["RJ Sheperd"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bike Advocate Manual"
