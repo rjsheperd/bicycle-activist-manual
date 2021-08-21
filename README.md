@@ -4,7 +4,7 @@ A manual that hopes to combine the knowledge of many previous cycling advocates 
 
 ## Chapters
 
-* [ ] Inspiration
+* [ ] Inspire
 * [ ] Measure
 * [ ] Map
 * [ ] Prioritize
