@@ -1,17 +1,27 @@
 # Inspire
 
-When someone asks, "What can I do to get involved in bicycling activism?" my first response is always "Ride your bike." Riding a bicycle is also a daily form of protest and activism, in and of itself. The simple act of choosing to ride a bicycle to your school, library, or work is key to activism. Riding on a daily or weekly basis normalizes bicycling as a transportation method to your friends, colleagues, and even the neighbors who happen to see you as they sit in traffic. It takes tremendous courage to occupy the space that has been taken from people to be made the exclusive right of the automobile<sup>[1](#citations)</sup>. The feeling that you get from riding a bicycle to school, shopping, and for other errands is both living your values than slapping a "Save the Planet" sticker on your car.
+When someone asks, "What can I do to get involved in bicycling activism?" my first response is always "Ride your bike." Riding a bicycle is also a daily form of protest and activism, in and of itself. The simple act of choosing to ride a bicycle to your school, library, or work is key to activism. Riding on a daily or weekly basis normalizes bicycling as a transportation method to your friends, colleagues, and even the neighbors who happen to see you as they sit in traffic. It takes tremendous courage to occupy the space that has been taken from people to be made the exclusive right of the automobile<sup>[1](#citations)</sup>. Riding a bicycle to school, shopping, and for other errands will not only improve your health, significantly reduce your transportation costs, and reduce your impact on the environment. It will also be a much more effective signal to your peers of how you live your values, rather than slapping a "Save the Planet" sticker on your car.
 
 If you already ride your bicycle around your city, take a few moments to answer these questions before moving onto the next chapters:
 1. Why do I ride a bicycle?
 1. How often do I ride a bicycle? How often would I like to ride my bike?
 1. Where do I ride my bike to? Where would I like to ride my bike to, but remains too dangerous to ride to?
 
-## Combatting Isolation
+## Health
+
+Our bodies were not meant to be sedentary. With our upright form, we were never meant to sit in a car, then at a desk, then on the sofa for 16 hours a day. We know from many studies that physical activity is shown to reduce the risk chronic illnesses, including diabetes, stroke, and heart disease. Not only that, but physical activity also reduces the onset of anxiety and depression<sup>[2](#citations)</sup>.
+
+According to the CDC, motor vehicle crashes are also the leading cause of death among children and adults under the age of 44, and the third leading cause of death behind heart disease and stroke for people over 45 <sup>[2](#citations)</sup>. While it may be perceived as unsafe to bike, crashes are unlikely to be deadly as speeds are often much lower than a vehicle. The major cause of death when riding a bike are vehicles.
+
+## Wealth
+
+The cost of traveling in the United States is some of the highest in the world due to the dependence on automobiles. A typical American spends over $10,000 per year on a vehicle, including car loans, registration, fuel, insurance, and maintenance <sup>[3](#citations)</sup>. On the other hand, a bicycle is astoundingly inexpensive compared to other forms of travel. Even the purchase of a new Electric-assist bike only costs a few thousand dollars, compared to tens of thousands of dollars for a new vehicle. Registration and insurance are zero, and "fuel" in electricity typically costs less than $5/year in most of the country. Riding a bicycle also means you can skip the gym membership, and likely reduce costly doctor's visits by being able to remain physically active.
+
+## Combatting Loneliness
 
 Today we live in an increasingly isolated society. Most Americans live in communities that are designed around the automobile, a technology that is not only expensive to own and maintain, but also one which requires being a certain age, the ability to see, and the physical/cognitive ability as well. For children, and increasingly mentally and physically impaired seniors, that has meant living in places that can feel more like prisons rather than a community.
 
-It should also be noted that our society is increasingly addicted to smartphones (a slot machine in your pocket), video-games, and social media (a way of forming lose connections, but lacking in forming deep emotional bonds). This is especially true with teens and young adults, sometimes to referred to as "Gen-I", which grew up with smartphones and social media from when they were young. Unfortunately, the rates of depression, anxiety, and suicide have sky-rocketed among teens and young adults, with 50% more teens reporting signs of major depression from 2011 to 2015, and the suicide rate for teens has double since 2007<sup>[2](#citations)</sup>.
+It should also be noted that our society is increasingly addicted to smartphones (a slot machine in your pocket), video-games, and social media (a way of forming lose connections, but lacking in forming deep emotional bonds). This is especially true with teens and young adults, sometimes to referred to as "Gen-I", which grew up with smartphones and social media from when they were young. Unfortunately, the rates of depression, anxiety, and suicide have sky-rocketed among teens and young adults, with 50% more teens reporting signs of major depression from 2011 to 2015, and the suicide rate for teens has double since 2007<sup>[3](#citations)</sup>.
 
 With the onset of a global pandemic, the many social activities were made off-limits to help reduce the spread of the virus. That has meant many turning to social media and online devices to supplement the in-person contact that humans are meant to have. Bicycling remains an incredibly safe activity, in spite of the pandemic, as it is outdoors with very little risk of transmission.
 
@@ -73,6 +83,8 @@ Additionally, the act of riding helps you learn what infrastructure needs to be 
 
 ## Citations
 1. Norton, Peter. "Fighting Traffic: The Dawn of the Motor Age in the American City, " 2008.
+2. [DHHS Report]
+2. [Center for Disease Control. "10 Leading Causes of Death by Age Group, United States - 2019"](https://wisqars-viz.cdc.gov:8006/lcd/)
 2. Twenge, Jean. "IGen : why today's super-connected kids are growing up less rebellious, more tolerant, less happy-- and completely unprepared for adulthood", 2017.
 
 
