@@ -4,7 +4,7 @@ While the focus of any advocate is to realize a particular vision of how the wor
 
 Using data and measurements is a key component to building the case for improving bicycling facilities. This section will provide a non-exhaustive list of some of the information that advocates might use to bolster their case.
 
-work with others to implement changes, both incremental and significant.
+It should go without saying that showing decision makers the data is often not enough to move them in the right direction. Later on we will cover how to work with others to implement changes, both incremental and significant.
 
 ## Traffic Counts
 
