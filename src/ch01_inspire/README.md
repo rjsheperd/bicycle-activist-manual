@@ -13,16 +13,30 @@ If you already ride your bicycle around your city, take a few moments to answer 
 
 Human bodies were never meant to be sedentary. With our upright bipedal form, humans were never meant to sit in a car, then at a desk, then on the sofa for upwards of 12 hours a day. We know from many studies that physical activity is shown to reduce the risk chronic illnesses, including diabetes, stroke, and heart disease. Not only that, but physical activity also reduces the onset of anxiety and depression<sup>[2](#citations)</sup>.
 
-According to the CDC, motor vehicle crashes are also the leading cause of death among children and adults under the age of 44, and the third leading cause of death behind heart disease and stroke for people over 45 <sup>[2](#citations)</sup>. While it may be perceived as unsafe to bike, crashes are unlikely to be deadly as speeds are often much lower than a vehicle. The major cause of death when riding a bike are vehicles.
+Bicycling as a form of transportation allows physical activity to be a part of your daily life. Rather than having to drive to a gym or park, you can simply take your bike to get your daily groceries or run a quick errand. Keep in mind, it only takes 15 minutes to ride a bike 3 miles, which is the same distance that covers nearly half of all automobile trips in the US<sup>[3](#citations)</sup>.
+
+While some may say that riding a bicycle is dangerous, it is far more dangerous for your health to be in a vehicle. According to the CDC, motor vehicle crashes are also the leading cause of death among children and adults under the age of 44, and the third leading cause of death behind heart disease and stroke for people over 45 <sup>[2](#citations)</sup>. While it may be perceived as unsafe to bike, crashes are unlikely to be deadly as speeds are often much lower than a vehicle. The major cause of death when riding a bike are vehicles (Later, we will discuss how to minimize deaths and serious injuries from crashes involving vehicles).
+
+Thin about:
+1. What kinds of physical activities did you do this past week?
+1. What are some ways you incorporate physical activity into your everyday routine?
+1. What are some of the ways that riding your bicycle for transportation could impact your health? Has it already impacted your health? How?
 
 ## Wealth
 
 The cost of traveling in the United States is some of the highest in the world due to the dependence on automobiles. A typical American spends over $10,000 per year on a vehicle, including car loans, registration, fuel, insurance, and maintenance <sup>[3](#citations)</sup>. On the other hand, a bicycle is astoundingly inexpensive compared to other forms of travel. Even the purchase of a new Electric-assist bike only costs a few thousand dollars, compared to tens of thousands of dollars for a new vehicle. Registration and insurance for Electric Bikes are zero, and "fuel" in electricity typically costs less than $5/year in most of the United States. Riding a bicycle also means you can skip the gym membership, and likely reduce costly doctor's visits by increasing your physical activity.
 
+Spend a moment to answer the following:
+1. How much have you paid for your vehicle over the past year? (Be sure to include car payments, maintenance, gas, insurance, and registration fees.)
+1. How much have you paid to own and operate your bicycle over it's entire lifetime?
+1. What could you do with the savings from riding your bicycle more? What would you do with the savings if you could get rid of a vehicle?
+
 ## Global Impact
 
-Not only will biking more help you improve your mental and physical health, all while saving money on transportation costs, it also gives you a chance to make an impact toward some of the big issues facing humanity. Whether it's preserving a habitable planet by taking action on Climate Change,  or taking a stand against oil-fueled dictatorships which deny people of their basic human rights,
+Not only will biking more help you improve your mental and physical health, all while saving money on transportation costs, it also gives you a chance to make an impact toward some of the big issues facing humanity. Whether it's preserving a habitable planet by taking action on Climate Change, or taking a stand against oil-fueled dictatorships which deny people of their basic human rights. The challenges of the world can feel insurmountable at times, but it is important to remember that we can each play a small part in overcoming those obstacles.
 
+Take time to reflect:
+1. What sort of impact on the world do you want to see? How can bicycling help achieve that outcome?
 
 ## Combatting Loneliness
 
@@ -68,6 +82,7 @@ Now that you're inspired to help make bicycling a safer, more accessible, and mo
 ## Citations
 1. Norton, Peter. "Fighting Traffic: The Dawn of the Motor Age in the American City, " 2008.
 1. [DHHS Report]
+1. [Inrix. "Micromobility Potential in the US, UK and Germany," September, 2019](https://inrix.com/micromobility-study-thank-you/)
 1. [Center for Disease Control. "10 Leading Causes of Death by Age Group, United States - 2019"](https://wisqars-viz.cdc.gov:8006/lcd/)
 1. Twenge, Jean. "IGen : why today's super-connected kids are growing up less rebellious, more tolerant, less happy-- and completely unprepared for adulthood", 2017.
 
